@@ -1,2 +1,2 @@
 # Special_K
-Private repo for team Brit Data to work on Kaggle solutions
+Public repo for team Data to work on Special K solutions
